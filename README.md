@@ -6,6 +6,8 @@ The below mentioned command is used to add manually react-script dependency
 
 ### `npm install react-scripts --save`
 
+After that run the application using:
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
