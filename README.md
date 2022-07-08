@@ -2,7 +2,9 @@
 
 In the project directory, you can run:
 
-###npm install react-scripts --save
+The below mentioned command is used to add manually react-script dependency
+
+### `npm install react-scripts --save`
 
 ### `npm start`
 
